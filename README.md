@@ -6,4 +6,4 @@
 
 [Check out my resume 📄](https://zacharyjbaldwin.com/assets/baldwin_zachary_resume.pdf)
 
-![visitor count](!https://visitor-badge.glitch.me/badge?page_id=zacharyjbaldwin)
+![visitor count](https://visitor-badge.laobi.icu/badge?page_id=zacharyjbaldwin)
