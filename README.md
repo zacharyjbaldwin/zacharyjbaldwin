@@ -4,6 +4,6 @@
 * software engineer 🖥️
 * lover of the MEAN stack 📚
 
-[Check out my resume 📄](https://zacharyjbaldwin.com/assets/baldwin_zachary_resume.pdf)
+[Check out my resume 📄](https://zacharyjbaldwin.com/assets/pdf/resume.pdf)
 
 ![visitor count](https://visitor-badge.laobi.icu/badge?page_id=zacharyjbaldwin)
