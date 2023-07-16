@@ -1,8 +1,8 @@
-# Hi there, I am Zachary 👋
+## Hi there, I am Zachary 👋
 
-* senior at the University of Texas at Dallas ☄️
-* software engineer 🖥️
-* lover of the MEAN stack 📚
+* University of Texas at Dallas alumnus ☄️
+* Full-stack web developer 🖥️
+* MEAN stack enthusiast 📚
 
 [Check out my resume 📄](https://zacharyjbaldwin.com/assets/pdf/Zachary_Baldwin_Resume.pdf)
 
